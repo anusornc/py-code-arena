@@ -1,0 +1,6 @@
+{
+  "name": "Python Code Arena & Algorithm Benchmark",
+  "description": "Interactive Python code arena for students and developers to compare algorithms, benchmark execution time and memory usage, verify correctness, and export clean comparative results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
